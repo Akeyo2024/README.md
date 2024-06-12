@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I am Raphael Akeyo;
 👨‍💻 I am a data analyst with a rich background in qualitative and quantitative research. <br>📈 I am currently working on improving my data and research analytics skills through advanced visualization tools<br>🤝 I am looking to collaborate on data analytics or research analysis related projects<br>❓ Ask me about: python| pandas| SQL| tableau| Matplotlib| Machine Learning| Seaborn<br>
 
 ## 🌐 Socials:
