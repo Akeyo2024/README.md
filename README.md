@@ -1,5 +1,5 @@
 # 💫 About Me:
-:person_technologist: I am a data analyst with a rich background in qualitative and quantitative research. <br>:chart_with_upwards_trend: I am currently working on improving my data and research analytics skills through advanced visualization tools<br>:handshake: I am looking to collaborate on data analytics or research analysis related projects<br>:question: Ask me about: python| pandas| SQL| tableau| Matplotlib| Machine Learning| Seaborn<br>
+👨‍💻 I am a data analyst with a rich background in qualitative and quantitative research. <br>📈 I am currently working on improving my data and research analytics skills through advanced visualization tools<br>🤝 I am looking to collaborate on data analytics or research analysis related projects<br>❓ Ask me about: python| pandas| SQL| tableau| Matplotlib| Machine Learning| Seaborn<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raphael-akeyo-2234b1121)
