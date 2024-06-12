@@ -1,6 +1,6 @@
 # README.md
 # 💫 About Me:
-:person_technologist: I am a data analyst with a rich background in qualitative and quantitative research. <br>:chart_with_upwards_trend: I am currently working on improving my data and research analytics skills through advanced visualization tools<br>:handshake: I am looking to collaborate on data analytics or research analysis related projects<br>:question_mark: Ask me about: python| pandas| SQL|  tableau| Matplotlib| Machine Learning| Seaborn<br>
+:bar_chart: I am a data analyst with a rich background in qualitative and quantitative research. <br>:chart_with_upwards_trend: I am currently working on improving my data and research analytics skills through advanced visualization tools<br>:handshake: I am looking to collaborate on data analytics or research analysis related projects<br>:question_mark: Ask me about: python| pandas| SQL|  tableau| Matplotlib| Machine Learning| Seaborn<br>
 
 
 ## 🌐 Socials:
